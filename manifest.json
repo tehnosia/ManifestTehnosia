@@ -1,0 +1,38 @@
+{
+  "name": "Tehnosia",
+  "short_name": "Tehnosia",
+  "start_url": "https://www.tehnosia.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#036082",
+  "description": "Media Edukasi IT dan Teknologi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s48/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s72/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s96/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s144/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s168/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s192/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s512/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
