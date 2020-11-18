@@ -7,6 +7,14 @@
   "theme_color": "#036082",
   "description": "Media Edukasi IT dan Teknologi",
   "icons": [{
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s16/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s32/Logo%2BTehnosia%2B3D%2B512.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {   
     "src": "https://1.bp.blogspot.com/-hHt3qCm3t60/X7TyQXzVuyI/AAAAAAAACHI/Ftfq0tzJDMcGy8LPDQeAsDaLGNLFFR8PgCLcBGAsYHQ/s48/Logo%2BTehnosia%2B3D%2B512.png",
     "sizes": "48x48",
     "type": "image/png"
